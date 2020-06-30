@@ -1,6 +1,7 @@
 body {
     max-width: 1000px; /* Максимальная ширина страницы в пикселах */ 
     font-family: 'Caveat', cursive;
+    text-align:center;
   }
   h1 {
   font-family: 'Pangolin', cursive;
